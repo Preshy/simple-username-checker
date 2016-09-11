@@ -1,7 +1,7 @@
 function checkusername(){
 	var usern = $('#usern').val();
 	$.ajax({
-		url: "test.php",
+		url: "app.php",
 		type: "POST",
 		data: 'usern='+$("#usern").val(),
 		beforeSend:function() {
