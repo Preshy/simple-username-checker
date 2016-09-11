@@ -1,2 +1,2 @@
 # simple-username-checker
-Simple Username Checker With JQuery and PHP
+Simple Username Checker With JQuery AJAX and PHP
