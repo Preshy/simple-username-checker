@@ -1,0 +1,55 @@
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Raleway', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+            .container {
+                top: -300px;
+                padding: 200px 20px;
+                margin: 0px auto 0px;
+                max-width: 740px;
+            }
+            .title {
+                text-align: center;
+                font-size: 28px;
+            }
+            .links {
+                max-width: 800px;
+                margin: 0px auto 0px;
+                text-align: center;
+            }
+            .links > a {
+                color: #636b6f;
+                padding: 0 25px;
+                font-size: 12px;
+                letter-spacing: .5rem;
+                text-transform: uppercase;
+                text-align: center;
+                font-weight: bold;
+            }
+
+    /* Boostrap's Customs */
+    .form-checkusername {
+    display: block;
+    width: 100%;
+    height: 54px;
+    padding: 10px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 4px solid #000;
+    border-radius: 0px;
+    font-weight: bold;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+#load {
+    font-weight: bold;
+}
+.smalltext {
+    font-size: 19px;
+}
